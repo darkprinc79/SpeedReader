@@ -1,7 +1,6 @@
 # Speed Reader (C++)
 
-
-A full-screen, one-word-at-a-time Windows reader for `.txt`, text-based `.pdf`, and `.epub` files. The middle letter is bold and centered.
+A full-screen, one-word-at-a-time Windows reader for `.txt`, text-based `.pdf`, and `.epub` files. The middle letter is bold and centered!
 
 ## Build
 
